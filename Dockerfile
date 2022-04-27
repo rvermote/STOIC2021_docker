@@ -1,6 +1,3 @@
-# Edit the base image here, e.g., to use
-# TENSORFLOW (https://hub.docker.com/r/tensorflow/tensorflow/)
-# or a different PYTORCH (https://hub.docker.com/r/pytorch/pytorch/) base image
 FROM pytorch/pytorch
 
 RUN apt-get update --allow-releaseinfo-change
