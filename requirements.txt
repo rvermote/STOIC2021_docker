@@ -1,0 +1,7 @@
+evalutils==0.2.4
+scikit-learn>=0.20.2
+scipy>=1.2.1
+SimpleITK>=1.2.0
+albumentations>=1.0.3
+opencv-python>=4.5.1
+torchvision>=0.12.0
